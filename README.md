@@ -1,5 +1,7 @@
 # AI-Powered ATS Resume Analyzer
 
+![image alt](https://github.com/MohammedUmair123/AI-Powered-ATS-Resume-Analyzer-/blob/f8c6761173a937f01d2e905b52e14bb411b114a7/ats.png)
+
 An AI-powered ATS (Applicant Tracking System) Resume Analyzer built using Python, Streamlit, and Groq LLM APIs. The application analyzes resumes against job descriptions, calculates ATS match scores, ranks multiple resumes, and provides improvement suggestions.
 
 ---
